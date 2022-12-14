@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nataliia and currently learning JAVA, SQL and cloud tecnologies as AWS. 
+- 👋 Hi, I’m Nataliia and currently learning JAVA, SQL and cloud tecnologies as AWS. 
 - 💞️ I’m looking to collaborate on projects to which i can contribute and upgrade my knowlenge to a new level as well. 
 - 📫 How to reach me: nataliia.budeniuk@gmail.com
 
