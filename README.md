@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Nataliia.
-- 👀 I’m interested in JAVA, SQL.
-- 🌱 I’m currently learning JAVA, SQL.
-- 💞️ I’m looking to collaborate on projects to which i can contribute and upgrade my knowlenge to a new level.
+- 👋 Hi, I’m @Nataliia and currently learning JAVA, SQL and cloud tecnologies as AWS. 
+- 💞️ I’m looking to collaborate on projects to which i can contribute and upgrade my knowlenge to a new level as well. 
 - 📫 How to reach me: nataliia.budeniuk@gmail.com
 
 <!---
